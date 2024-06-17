@@ -1,0 +1,10 @@
+int main {
+int x;
+inte y;
+if (y == x + 1) {
+   printf("...");
+}
+else {
+    printf("...");
+}
+}
